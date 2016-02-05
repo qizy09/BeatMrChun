@@ -1,7 +1,7 @@
 # BeatMrChun
 -----------------
 
-This is a PC game written with C#. I designed this game for fun and as a gift for Girl's Day in my undergrad.
+This is a backup repository for a PC game written with C#. I designed this game for fun and as a gift for Girl's Day in my undergrad.
 
 # Background
 
